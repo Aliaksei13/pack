@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b053718-4462-4bd1-bdcc-821842b5a7e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/test/java/driver/SingletonWebDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/driver/SingletonWebDriver.class" afterDir="false" />
+    <list default="true" id="5b053718-4462-4bd1-bdcc-821842b5a7e4" name="Default Changelist" comment="added default goal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/driver/SingletonWebDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="374">
+              <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
               <folding>
                 <element signature="method#SingletonWebDriver#0;class#SingletonWebDriver#0" />
                 <element signature="e#2147#2148#0" expanded="true" />
@@ -33,6 +33,18 @@
                 <element signature="e#2243#2244#0" expanded="true" />
                 <element signature="e#2282#2283#0" expanded="true" />
                 <element signature="e#2318#2319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/indiegogo/Test_Indiegogo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,7 +87,6 @@
         <option value="$PROJECT_DIR$/src/test/java/resources/Suite.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Constants.java" />
         <option value="$PROJECT_DIR$/src/test/java/driver/PropertiesManager.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/codepenio/Test_Codepenio.java" />
         <option value="$PROJECT_DIR$/src/test/java/indiegogo/Test_Indiegogo.java" />
         <option value="$PROJECT_DIR$/src/test/java/quickitcom/Test_Quickitcom.java" />
@@ -83,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/test/java/driver/PropertyManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/resources/configuration.properties" />
         <option value="$PROJECT_DIR$/src/test/java/driver/SingletonWebDriver.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -134,44 +146,7 @@
               <item name="pack" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codepenio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="indiegogo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="quickitcom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="quickitcom" type="462c0819:PsiDirectoryNode" />
-              <item name="logic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="quickitcom" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pack" type="b2602c69:ProjectViewProjectNode" />
@@ -330,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555322208348</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added default goal">
+      <created>1555333615600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555333615600</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -376,6 +358,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.25718608" />
@@ -392,7 +375,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
@@ -446,7 +429,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="local env" />
-    <option name="LAST_COMMIT_MESSAGE" value="local env" />
+    <MESSAGE value="added default goal" />
+    <option name="LAST_COMMIT_MESSAGE" value="added default goal" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -545,20 +529,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/driver/PropertiesManager.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Constants.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/quickitcom/Test_Quickitcom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tabulator/Test_Tabulator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -739,20 +709,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/indiegogo/Test_Indiegogo.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="70">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/quickitcom/Test_Quickitcom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/driver/SingletonWebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="374">
+          <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
           <folding>
             <element signature="method#SingletonWebDriver#0;class#SingletonWebDriver#0" />
             <element signature="e#2147#2148#0" expanded="true" />
@@ -761,6 +735,16 @@
             <element signature="e#2243#2244#0" expanded="true" />
             <element signature="e#2282#2283#0" expanded="true" />
             <element signature="e#2318#2319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/indiegogo/Test_Indiegogo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

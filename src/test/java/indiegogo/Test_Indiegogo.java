@@ -47,7 +47,7 @@ public class Test_Indiegogo {
         try{
             if (resultPageLogic.getShowMoreButton().isDisplayed()) {
                 int x = 3;//кол-во кликов
-                for(int i = 1; i <= x; i++) {
+                for(int i = 0; i < x; i++) {
                     assertTrue(resultPageLogic.getShowMoreButton().getText().toLowerCase().contains("show more"), "Not found");
                     resultPageLogic.clickShowMoreButton();
                     singletonWebDriver.pause(2000);
