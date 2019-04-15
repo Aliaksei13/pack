@@ -47,7 +47,7 @@ public class SingletonWebDriver {
             System.setProperty("webdriver.gecko.driver", "C:\\Users\\anduser\\Downloads\\geckodriver-v0.24.0-win64\\geckodriver.exe");
             driver.set(new FirefoxDriver());
         } else {
-            System.out.println("Environment is not selected");
+            throw new RuntimeException("Environment is not selected");
         }
         getDriver().manage().deleteAllCookies();
         getDriver().manage().window().maximize();
@@ -76,4 +76,3 @@ public class SingletonWebDriver {
         }
     }
 }
-//завести проект на гитхабе и залить код
